@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "434574760307",
+    "firebase_url": "https://mygreenactivities-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mygreenactivities",
+    "storage_bucket": "mygreenactivities.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434574760307:android:e169e0408171dc47c58d06",
+        "android_client_info": {
+          "package_name": "com.example.mygreenactivities"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGyldBOrhiAHqNos85zx1ekrJzO7dPvyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
