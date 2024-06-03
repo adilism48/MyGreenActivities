@@ -1,7 +1,7 @@
 # GreenLife App
 MyGreenActivities helps to share with comunity your eco activities. In application you can create your own account and write your activities.
 
-<img src="" width="300"><img src="" width="300">
+<img src="https://github.com/adilism48/MyGreenActivities/blob/main/images/mainpage.png" width="300"><img src="https://github.com/adilism48/MyGreenActivities/blob/main/images/settingspage.png" width="300">
 
 # Functionality
 - Create account and recover pass via email if you forget pass (Firestore Auth)
